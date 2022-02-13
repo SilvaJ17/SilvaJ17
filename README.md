@@ -11,7 +11,7 @@
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about:
 - 📫 How to reach me: 
-- ⚡ Fun fact: I Love One Piece! Check out the World![check it out here](https://www.youtube.com/watch?v=AcSVkCNDLZg&t=391s&ab_channel=Strawhat%F0%9D%90%95)
+- ⚡ Fun fact: I Love One Piece!
 
 <!--
 **lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
